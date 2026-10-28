@@ -407,12 +407,13 @@ export default function App() {
           </div>
           <div>
             <span>Email</span>
-            <a href="https://mutumadigital.co.ke" target="_blank" rel="noreferrer">mutumadigital.co.ke</a>
+            <a href="https://mutumadigital.co.ke" target="_blank" rel="noreferrer">info@mutumadigital.co.ke</a>
           </div>
           <div>
             <span>Visit us</span>
+            
             <address>
-              5th Floor, Top Plaza, Kindaruma Rd, Nairobi<br />
+              Top Plaza,5th Floor, Kindaruma Rd, off Ngong Rd <br />
               P.O. Box 23799-00100 Nairobi, Kenya
             </address>
           </div>
