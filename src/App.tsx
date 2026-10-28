@@ -261,7 +261,7 @@ export default function App() {
             <h3>A stronger future for maternal care</h3>
             <p>
               The newly constructed and equipped maternity wing at Uruku Health Center in Nkuene Ward expands access to
-              dignified maternal and newborn care for families in Imenti South.
+              dignified maternal and newborn care for families in South Imenti.
             </p>
             <a href="#updates">View the commissioning <ArrowIcon /></a>
           </div>
