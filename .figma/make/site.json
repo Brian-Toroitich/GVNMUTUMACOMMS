@@ -1,0 +1,15 @@
+
+{
+  "title": "Mutuma M'Ethingia Communications Limited",
+  "description": "Official communications and public information from Mutuma M'Ethingia Communications Limited.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "accessibility": {
+    "addBypassLinks": true
+  }
+}
