@@ -6,7 +6,11 @@ const landscape =
 const healthGallery = [
   {
     src: "/health-centre-commissioning.jpg",
-    alt: "H.E. Rev. Mutuma M’Ethingia with Health Cabinet Secretary Hon. Aden Duale",
+    alt: "H.E. Rev. Mutuma M’Ethingia with Health Cabinet Secretary Hon. Aden Duale during the commissioning of a newly constructed maternity wing at Uruku Health Center",
+  },
+  {
+    src: "/HealthFacility.jpeg",
+    alt: "The newly completed Uruku Health Center and health facility in Nkuene Ward",
   },
   {
     src: "/uruku-maternity-exterior.jpg",
@@ -32,8 +36,209 @@ const communityGallery = [
     alt: "The Governor supporting a local produce business during the tour",
   },
   {
-    src: "/community-tour-4.jpg",
-    alt: "The Governor joining residents in a traditional board game during the community tour",
+    src: "/HonouringourHeros.jpeg",
+    alt: "The Governor meeting with residents during a community visit",
+  },
+  {
+    src: "/gvnwithlocals.jpeg",
+    alt: "The Governor meeting with residents at a local gathering",
+  },
+  {
+    src: "/GvnWithLocal.jpeg",
+    alt: "The Governor speaking with residents during a community visit",
+  },
+  {
+    src: "/MeruCulturalDay.jpeg",
+    alt: "The Governor celebrating Meru culture with community members",
+  },
+]
+
+const developmentGallery = [
+  {
+    src: "/Dev1.jpeg",
+    alt: "The Governor speaking with residents during a development site visit",
+  },
+  {
+    src: "/Dev2.jpeg",
+    alt: "The Governor meeting with staff inside a health facility",
+  },
+  {
+    src: "/Dev3.jpeg",
+    alt: "Community members gathered at a local development project",
+  },
+  {
+    src: "/Dev4.jpeg",
+    alt: "Residents receiving support during a community visit",
+  },
+  {
+    src: "/Dev5.jpeg",
+    alt: "A multi-storey development project",
+  },
+  {
+    src: "/Dev6.jpeg",
+    alt: "A completed community facility",
+  },
+  {
+    src: "/Dev7.jpeg",
+    alt: "County officials inspecting a development project",
+  },
+]
+
+const agricultureGallery = [
+  {
+    src: "/KopiaPotatos.jpeg",
+    alt: "Potato field under the Kopia model village initiative",
+    message: "A strong agricultural partnership is supporting farmers through improved potato growing methods, advisory support and better food security outcomes.",
+  },
+  {
+    src: "/KopiaPotatos1.jpeg",
+    alt: "Farmers gathering around a potato demonstration field",
+    message: "The county is helping farmers adopt productive, climate-smart approaches while building confidence in modern crop production.",
+  },
+  {
+    src: "/KopiaPotatos2.jpeg",
+    alt: "Farmers reviewing a potato crop in the field",
+    message: "From training and demonstration to practical farm support, the focus remains on growing yields and resilient livelihoods.",
+  },
+  {
+    src: "/seedDistribution.jpeg",
+    alt: "Seed distribution event supporting local farmers",
+    message: "Farmers are receiving the inputs they need to strengthen planting, increase productivity and improve household resilience.",
+  },
+  {
+    src: "/SeedDistribution3.png",
+    alt: "Agricultural support and seed distribution to community members",
+    message: "Seeding the future means putting practical support and tools directly into the hands of the people doing the work on the ground.",
+  },
+]
+
+const waterEnvironmentGallery = [
+  {
+    src: "/Environment.jpeg",
+    alt: "Environmental rehabilitation and landscape restoration effort in the county",
+    message: "Restoring landscapes and improving community resilience is part of a wider effort to protect the environment and secure long-term water sustainability.",
+  },
+  {
+    src: "/WaterTank.jpeg",
+    alt: "A newly installed elevated water tank improving water storage and access for the community",
+    message: "Reliable water storage is critical to improving household access, community resilience and long-term service continuity across Meru County.H.E the Governor commisioned the county government borehole at Kiburine in Nyaki East Ward. Expanding access to clean and reliable water remains a top priority for governor Mutuma's administration. ",
+  },
+  {
+    src: "/TreeSeedlings..png",
+    alt: "Tree seedlings packed for environmental restoration and reforestation",
+    message: "The county is investing in tree planting and landscape restoration to strengthen eco-systems, water retention and long-term climate resilience.",
+  },
+  {
+    src: "/NyambaneWaterP.png",
+    alt: "Officials and community members participating in a water and environmental initiative",
+    message: "By bringing communities together around water and environment initiatives, the county is making climate-smart protection and access a shared priority.Meru county is set to benefit largely from the Kes. 26 Billion World Bank-Funded Nyambane Watershed Project  ",
+  },
+]
+
+const vocationalTrainingGallery = [
+  {
+    src: "/VocationalTraining1.jpeg",
+    alt: "Governor Mutuma M’Ethingia unveiling the official plaque at Kirindine Vocational Training Centre",
+    message: "The Governor commissioned a workshop and ablution block at Kirindine Vocational Training Centre, creating a stronger foundation for technical learning and community development.",
+  },
+  {
+    src: "/VocationalStudents.jpeg",
+    alt: "Young trainees cheering and celebrating at the vocational training centre launch",
+    message: "The launch created excitement among the youth, who are eager to acquire practical skills that open doors to employment and enterprise.",
+  },
+  {
+    src: "/VocationalStudents1.jpeg",
+    alt: "Youth trainees gathered in a celebratory moment at the training centre",
+    message: "Skills training is helping young people build confidence, explore livelihoods and prepare for a future rooted in productivity and self-reliance.",
+  },
+  {
+    src: "/BusinessSupportEquipments.jpeg",
+    alt: "Beauty and therapy equipment distributed to support vocational training at the centre",
+    message: "The county distributed beauty and therapy equipment to help kickstart training and equip learners with hands-on tools needed for real jobs.",
+  },
+  {
+    src: "/BusinessSupportEquipments1.jpeg",
+    alt: "Support equipment displayed during the Kirindine vocational training launch event",
+    message: "With practical support and modern equipment, the county is turning skills training into a direct pathway to better livelihoods for Meru’s young people.",
+  },
+]
+
+const countyRoadsGallery = [
+  {
+    src: "/Bridge.jpeg",
+    alt: "Bridge construction improving movement and access for rural communities in Meru County",
+    message: "The county is increasing connectivity across rural areas by building bridges that make movement easier, faster and safer for the people of Meru. The construction of the Bonoko bridge in Mwangathia ward, Imenti Central bringing an end to the dangerous wooden bridge.",
+  },
+  {
+    src: "/OpeningUpRemote.jpeg",
+    alt: "Road works opening up remote rural areas in the county",
+    message: "From remote access roads to critical crossings, the county is opening up underserved areas and connecting households, farms and markets.Kiegoi is opening up, the construction of the Silver Inn - Kimurani - Kuuru road in Antubochiu ward.",
+  },
+  {
+    src: "/roads.jpeg",
+    alt: "Road construction and drainage works improving access in a rural area",
+    message: "Better road access is helping communities reach services, schools, businesses and markets while improving everyday mobility across the county.",
+  },
+  {
+    src: "/InspectionofRoads2.jpeg",
+    alt: "Governor Mutuma M’Ethingia inspecting ongoing road construction works in Muthara, Tigania East",
+    message: "The Governor inspected ongoing road works in Muthara, Tigania East, reinforcing the county’s commitment to opening up remote rural areas and improving access for the people of Meru.",
+  },
+]
+
+const tradeEnterpriseGallery = [
+  {
+    src: "/MOU.jpeg",
+    alt: "Governor Mutuma M’Ethingia signing strategic partnership documents with a foreign investor",
+    message: "Under H.E. the Governor's leadership, Meru County is forging strategic partnerships and signing MOUs that open new overseas and regional markets for local farm products.",
+  },
+  {
+    src: "/StrategicPartnerships.jpeg",
+    alt: "Officials and partners in a strategic partnership meeting focused on agricultural value chains and export opportunities",
+    message: "The county is building direct partnerships that connect farmers to better markets, stronger supply chains and opportunities for shared growth.",
+  },
+  {
+    src: "/Trade.jpeg",
+    alt: "Trade and enterprise engagement highlighting Meru County products and opportunities",
+    message: "This work is creating pathways for farmers to move beyond raw produce and into higher-value trade opportunities that support local enterprise and employment.",
+  },
+  {
+    src: "/Trade1.jpeg",
+    alt: "Meru County business and investment engagement focused on value addition and market access",
+    message: "The county is intentionally connecting farmers with investment opportunities in processing and manufacturing so more value stays in Meru.",
+  },
+  {
+    src: "/Trade2.jpeg",
+    alt: "County trade and enterprise initiative showing product diversification and increased market readiness",
+    message: "By encouraging value addition before markets, the county is helping farmers earn more from their crops and build resilient local enterprise.",
+  },
+  {
+    src: "/ValueAddition.jpeg",
+    alt: "Processed agricultural products displayed to highlight value addition and product development",
+    message: "The push for value addition is shifting farming from raw commodity sales toward processing, branding and more rewarding market outcomes.",
+  },
+  {
+    src: "/ValueAddition1.jpeg",
+    alt: "Value-added Meru products and agricultural investment showcase",
+    message: "From processing to manufacturing, Meru is creating a stronger local ecosystem where farmers can benefit from the full value of their work.",
+  },
+]
+
+const publicServiceGallery = [
+  {
+    src: "/Gavana.jpeg",
+    alt: "Governor Mutuma M’Ethingia addressing the public at a podium",
+    message: "The Governor engages residents directly, sharing the county’s priorities and commitment to responsive public service. Meru county has been ",
+  },
+  {
+    src: "/Gavana1.jpg",
+    alt: "Governor Mutuma M’Ethingia chairing a meeting with county officials",
+    message: "Regular coordination with county officials helps strengthen accountability and delivery across the county administration.",
+  },
+  {
+    src: "/GavanaBeforeSenate.jpg",
+    alt: "Governor Mutuma M’Ethingia speaking during a Senate session",
+    message: "The Governor represents Meru’s interests and works with national leaders to advance services for county residents. The governor appearing before the Senate Budget and Appropriations Committee to defend the interests of the people of Meru following the National Treasury's proposal to halt the transfer of funds to the County Government over the Leopard Rock contingent liability.",
   },
 ]
 
@@ -82,7 +287,7 @@ const achievements = [
     number: "02",
     area: "County roads",
     title: "Opening up every ward",
-    text: "Prioritising road grading, drainage and maintenance to connect communities, farms, markets and public services.",
+    text: "The county government is increasingly opening up rural areas by investing in roads, drainage and bridge works that improve access, ease movement and connect communities across Meru.",
   },
   {
     number: "03",
@@ -93,14 +298,20 @@ const achievements = [
   {
     number: "04",
     area: "Trade & enterprise",
-    title: "Creating room for business",
-    text: "Supporting local traders, cooperatives and small enterprises as engines of jobs and county prosperity.",
+    title: "Opening new markets and adding value",
+    text: "The county government is pursuing strategic partnerships and investor engagement to open overseas markets for Meru products, attract processing and manufacturing investment close to farmers and turn raw produce into higher-value goods.",
   },
   {
     number: "05",
     area: "Public service",
     title: "Restoring responsive government",
     text: "Strengthening accountability, community engagement and a culture of service across the county administration.",
+  },
+  {
+    number: "06",
+    area: "Vocational training",
+    title: "Vocational Training & Skill Development",
+    text: "The county government of Meru is investing in practical skills training for young people so they can earn a living, build confidence and become self-reliant through accredited vocational learning.",
   },
 ]
 
@@ -127,6 +338,13 @@ export default function App() {
   const [menuOpen, setMenuOpen] = useState(false)
   const [currentPhoto, setCurrentPhoto] = useState(0)
   const [currentCommunityPhoto, setCurrentCommunityPhoto] = useState(0)
+  const [currentDevelopmentPhoto, setCurrentDevelopmentPhoto] = useState(0)
+  const [currentAgriculturePhoto, setCurrentAgriculturePhoto] = useState(0)
+  const [currentWaterEnvironmentPhoto, setCurrentWaterEnvironmentPhoto] = useState(0)
+  const [currentVocationalTrainingPhoto, setCurrentVocationalTrainingPhoto] = useState(0)
+  const [currentCountyRoadsPhoto, setCurrentCountyRoadsPhoto] = useState(0)
+  const [currentTradeEnterprisePhoto, setCurrentTradeEnterprisePhoto] = useState(0)
+  const [currentPublicServicePhoto, setCurrentPublicServicePhoto] = useState(0)
 
   const closeMenu = () => setMenuOpen(false)
   const showPreviousPhoto = () =>
@@ -137,6 +355,34 @@ export default function App() {
     setCurrentCommunityPhoto((current) => (current - 1 + communityGallery.length) % communityGallery.length)
   const showNextCommunityPhoto = () =>
     setCurrentCommunityPhoto((current) => (current + 1) % communityGallery.length)
+  const showPreviousDevelopmentPhoto = () =>
+    setCurrentDevelopmentPhoto((current) => (current - 1 + developmentGallery.length) % developmentGallery.length)
+  const showNextDevelopmentPhoto = () =>
+    setCurrentDevelopmentPhoto((current) => (current + 1) % developmentGallery.length)
+  const showPreviousAgriculturePhoto = () =>
+    setCurrentAgriculturePhoto((current) => (current - 1 + agricultureGallery.length) % agricultureGallery.length)
+  const showNextAgriculturePhoto = () =>
+    setCurrentAgriculturePhoto((current) => (current + 1) % agricultureGallery.length)
+  const showPreviousWaterEnvironmentPhoto = () =>
+    setCurrentWaterEnvironmentPhoto((current) => (current - 1 + waterEnvironmentGallery.length) % waterEnvironmentGallery.length)
+  const showNextWaterEnvironmentPhoto = () =>
+    setCurrentWaterEnvironmentPhoto((current) => (current + 1) % waterEnvironmentGallery.length)
+  const showPreviousVocationalTrainingPhoto = () =>
+    setCurrentVocationalTrainingPhoto((current) => (current - 1 + vocationalTrainingGallery.length) % vocationalTrainingGallery.length)
+  const showNextVocationalTrainingPhoto = () =>
+    setCurrentVocationalTrainingPhoto((current) => (current + 1) % vocationalTrainingGallery.length)
+  const showPreviousCountyRoadsPhoto = () =>
+    setCurrentCountyRoadsPhoto((current) => (current - 1 + countyRoadsGallery.length) % countyRoadsGallery.length)
+  const showNextCountyRoadsPhoto = () =>
+    setCurrentCountyRoadsPhoto((current) => (current + 1) % countyRoadsGallery.length)
+  const showPreviousTradeEnterprisePhoto = () =>
+    setCurrentTradeEnterprisePhoto((current) => (current - 1 + tradeEnterpriseGallery.length) % tradeEnterpriseGallery.length)
+  const showNextTradeEnterprisePhoto = () =>
+    setCurrentTradeEnterprisePhoto((current) => (current + 1) % tradeEnterpriseGallery.length)
+  const showPreviousPublicServicePhoto = () =>
+    setCurrentPublicServicePhoto((current) => (current - 1 + publicServiceGallery.length) % publicServiceGallery.length)
+  const showNextPublicServicePhoto = () =>
+    setCurrentPublicServicePhoto((current) => (current + 1) % publicServiceGallery.length)
 
   return (
     <main>
@@ -179,9 +425,9 @@ export default function App() {
         <div className="hero-content">
           <p className="eyebrow light">Leadership • Service • Progress</p>
           <h1>
-            Building a
+            Building 
             <br />
-            <em>prosperous Meru.</em>
+            <em>Meru Together.</em>
           </h1>
           <p className="hero-intro">
             H.E. Rev. Isaac Mutuma M’Ethingia
@@ -275,6 +521,294 @@ export default function App() {
               <div>
                 <h3>{achievement.title}</h3>
                 <p>{achievement.text}</p>
+
+                {achievement.area === "Agriculture" && (
+                  <div className="achievement-gallery">
+                    <div className="achievement-gallery-image">
+                      <img
+                        key={agricultureGallery[currentAgriculturePhoto].src}
+                        src={agricultureGallery[currentAgriculturePhoto].src}
+                        alt={agricultureGallery[currentAgriculturePhoto].alt}
+                      />
+                      <div className="gallery-controls achievement-gallery-controls">
+                        <button
+                          className="gallery-arrow previous"
+                          type="button"
+                          onClick={showPreviousAgriculturePhoto}
+                          aria-label="Show previous agriculture photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                        <div
+                          className="gallery-dots"
+                          aria-label={`Agriculture photo ${currentAgriculturePhoto + 1} of ${agricultureGallery.length}`}
+                        >
+                          {agricultureGallery.map((photo, photoIndex) => (
+                            <button
+                              className={photoIndex === currentAgriculturePhoto ? "active" : ""}
+                              type="button"
+                              key={photo.src}
+                              onClick={() => setCurrentAgriculturePhoto(photoIndex)}
+                              aria-label={`Show agriculture photo ${photoIndex + 1}`}
+                              aria-current={photoIndex === currentAgriculturePhoto ? "true" : undefined}
+                            />
+                          ))}
+                        </div>
+                        <button
+                          className="gallery-arrow"
+                          type="button"
+                          onClick={showNextAgriculturePhoto}
+                          aria-label="Show next agriculture photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                      </div>
+                    </div>
+                    <div className="achievement-gallery-message">
+                      <p>{agricultureGallery[currentAgriculturePhoto].message}</p>
+                    </div>
+                  </div>
+                )}
+
+                {achievement.area === "County roads" && (
+                  <div className="achievement-gallery">
+                    <div className="achievement-gallery-image">
+                      <img
+                        key={countyRoadsGallery[currentCountyRoadsPhoto].src}
+                        src={countyRoadsGallery[currentCountyRoadsPhoto].src}
+                        alt={countyRoadsGallery[currentCountyRoadsPhoto].alt}
+                      />
+                      <div className="gallery-controls achievement-gallery-controls">
+                        <button
+                          className="gallery-arrow previous"
+                          type="button"
+                          onClick={showPreviousCountyRoadsPhoto}
+                          aria-label="Show previous county roads photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                        <div
+                          className="gallery-dots"
+                          aria-label={`County roads photo ${currentCountyRoadsPhoto + 1} of ${countyRoadsGallery.length}`}
+                        >
+                          {countyRoadsGallery.map((photo, photoIndex) => (
+                            <button
+                              className={photoIndex === currentCountyRoadsPhoto ? "active" : ""}
+                              type="button"
+                              key={photo.src}
+                              onClick={() => setCurrentCountyRoadsPhoto(photoIndex)}
+                              aria-label={`Show county roads photo ${photoIndex + 1}`}
+                              aria-current={photoIndex === currentCountyRoadsPhoto ? "true" : undefined}
+                            />
+                          ))}
+                        </div>
+                        <button
+                          className="gallery-arrow"
+                          type="button"
+                          onClick={showNextCountyRoadsPhoto}
+                          aria-label="Show next county roads photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                      </div>
+                    </div>
+                    <div className="achievement-gallery-message">
+                      <p>{countyRoadsGallery[currentCountyRoadsPhoto].message}</p>
+                    </div>
+                  </div>
+                )}
+
+                {achievement.area === "Water & environment" && (
+                  <div className="achievement-gallery">
+                    <div className="achievement-gallery-image">
+                      <img
+                        key={waterEnvironmentGallery[currentWaterEnvironmentPhoto].src}
+                        src={waterEnvironmentGallery[currentWaterEnvironmentPhoto].src}
+                        alt={waterEnvironmentGallery[currentWaterEnvironmentPhoto].alt}
+                      />
+                      <div className="gallery-controls achievement-gallery-controls">
+                        <button
+                          className="gallery-arrow previous"
+                          type="button"
+                          onClick={showPreviousWaterEnvironmentPhoto}
+                          aria-label="Show previous water and environment photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                        <div
+                          className="gallery-dots"
+                          aria-label={`Water and environment photo ${currentWaterEnvironmentPhoto + 1} of ${waterEnvironmentGallery.length}`}
+                        >
+                          {waterEnvironmentGallery.map((photo, photoIndex) => (
+                            <button
+                              className={photoIndex === currentWaterEnvironmentPhoto ? "active" : ""}
+                              type="button"
+                              key={photo.src}
+                              onClick={() => setCurrentWaterEnvironmentPhoto(photoIndex)}
+                              aria-label={`Show water and environment photo ${photoIndex + 1}`}
+                              aria-current={photoIndex === currentWaterEnvironmentPhoto ? "true" : undefined}
+                            />
+                          ))}
+                        </div>
+                        <button
+                          className="gallery-arrow"
+                          type="button"
+                          onClick={showNextWaterEnvironmentPhoto}
+                          aria-label="Show next water and environment photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                      </div>
+                    </div>
+                    <div className="achievement-gallery-message">
+                      <p>{waterEnvironmentGallery[currentWaterEnvironmentPhoto].message}</p>
+                    </div>
+                  </div>
+                )}
+
+                {achievement.area === "Vocational training" && (
+                  <div className="achievement-gallery">
+                    <div className="achievement-gallery-image">
+                      <img
+                        key={vocationalTrainingGallery[currentVocationalTrainingPhoto].src}
+                        src={vocationalTrainingGallery[currentVocationalTrainingPhoto].src}
+                        alt={vocationalTrainingGallery[currentVocationalTrainingPhoto].alt}
+                      />
+                      <div className="gallery-controls achievement-gallery-controls">
+                        <button
+                          className="gallery-arrow previous"
+                          type="button"
+                          onClick={showPreviousVocationalTrainingPhoto}
+                          aria-label="Show previous vocational training photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                        <div
+                          className="gallery-dots"
+                          aria-label={`Vocational training photo ${currentVocationalTrainingPhoto + 1} of ${vocationalTrainingGallery.length}`}
+                        >
+                          {vocationalTrainingGallery.map((photo, photoIndex) => (
+                            <button
+                              className={photoIndex === currentVocationalTrainingPhoto ? "active" : ""}
+                              type="button"
+                              key={photo.src}
+                              onClick={() => setCurrentVocationalTrainingPhoto(photoIndex)}
+                              aria-label={`Show vocational training photo ${photoIndex + 1}`}
+                              aria-current={photoIndex === currentVocationalTrainingPhoto ? "true" : undefined}
+                            />
+                          ))}
+                        </div>
+                        <button
+                          className="gallery-arrow"
+                          type="button"
+                          onClick={showNextVocationalTrainingPhoto}
+                          aria-label="Show next vocational training photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                      </div>
+                    </div>
+                    <div className="achievement-gallery-message">
+                      <p>{vocationalTrainingGallery[currentVocationalTrainingPhoto].message}</p>
+                    </div>
+                  </div>
+                )}
+
+                {achievement.area === "Trade & enterprise" && (
+                  <div className="achievement-gallery">
+                    <div className="achievement-gallery-image">
+                      <img
+                        key={tradeEnterpriseGallery[currentTradeEnterprisePhoto].src}
+                        src={tradeEnterpriseGallery[currentTradeEnterprisePhoto].src}
+                        alt={tradeEnterpriseGallery[currentTradeEnterprisePhoto].alt}
+                      />
+                      <div className="gallery-controls achievement-gallery-controls">
+                        <button
+                          className="gallery-arrow previous"
+                          type="button"
+                          onClick={showPreviousTradeEnterprisePhoto}
+                          aria-label="Show previous trade and enterprise photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                        <div
+                          className="gallery-dots"
+                          aria-label={`Trade and enterprise photo ${currentTradeEnterprisePhoto + 1} of ${tradeEnterpriseGallery.length}`}
+                        >
+                          {tradeEnterpriseGallery.map((photo, photoIndex) => (
+                            <button
+                              className={photoIndex === currentTradeEnterprisePhoto ? "active" : ""}
+                              type="button"
+                              key={photo.src}
+                              onClick={() => setCurrentTradeEnterprisePhoto(photoIndex)}
+                              aria-label={`Show trade and enterprise photo ${photoIndex + 1}`}
+                              aria-current={photoIndex === currentTradeEnterprisePhoto ? "true" : undefined}
+                            />
+                          ))}
+                        </div>
+                        <button
+                          className="gallery-arrow"
+                          type="button"
+                          onClick={showNextTradeEnterprisePhoto}
+                          aria-label="Show next trade and enterprise photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                      </div>
+                    </div>
+                    <div className="achievement-gallery-message">
+                      <p>{tradeEnterpriseGallery[currentTradeEnterprisePhoto].message}</p>
+                    </div>
+                  </div>
+                )}
+
+                {achievement.area === "Public service" && (
+                  <div className="achievement-gallery">
+                    <div className="achievement-gallery-image">
+                      <img
+                        key={publicServiceGallery[currentPublicServicePhoto].src}
+                        src={publicServiceGallery[currentPublicServicePhoto].src}
+                        alt={publicServiceGallery[currentPublicServicePhoto].alt}
+                      />
+                      <div className="gallery-controls achievement-gallery-controls">
+                        <button
+                          className="gallery-arrow previous"
+                          type="button"
+                          onClick={showPreviousPublicServicePhoto}
+                          aria-label="Show previous public service photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                        <div
+                          className="gallery-dots"
+                          aria-label={`Public service photo ${currentPublicServicePhoto + 1} of ${publicServiceGallery.length}`}
+                        >
+                          {publicServiceGallery.map((photo, photoIndex) => (
+                            <button
+                              className={photoIndex === currentPublicServicePhoto ? "active" : ""}
+                              type="button"
+                              key={photo.src}
+                              onClick={() => setCurrentPublicServicePhoto(photoIndex)}
+                              aria-label={`Show public service photo ${photoIndex + 1}`}
+                              aria-current={photoIndex === currentPublicServicePhoto ? "true" : undefined}
+                            />
+                          ))}
+                        </div>
+                        <button
+                          className="gallery-arrow"
+                          type="button"
+                          onClick={showNextPublicServicePhoto}
+                          aria-label="Show next public service photo"
+                        >
+                          <ArrowIcon />
+                        </button>
+                      </div>
+                    </div>
+                    <div className="achievement-gallery-message">
+                      <p>{publicServiceGallery[currentPublicServicePhoto].message}</p>
+                    </div>
+                  </div>
+                )}
               </div>
             </article>
           ))}
@@ -292,7 +826,7 @@ export default function App() {
         <div className="updates-grid">
           {updates.map((update, index) => (
             <article
-              className={index === 0 ? "update-card featured" : index === 2 ? "update-card community-gallery" : "update-card"}
+              className={index === 0 ? "update-card featured" : index === 1 || index === 2 ? "update-card with-gallery" : "update-card"}
               key={update.title}
             >
               {index === 0 && (
@@ -328,6 +862,48 @@ export default function App() {
                       type="button"
                       onClick={showNextPhoto}
                       aria-label="Show next photo"
+                    >
+                      <ArrowIcon />
+                    </button>
+                  </div>
+                </div>
+              )}
+              {index === 1 && (
+                <div className="update-image">
+                  <img
+                    key={developmentGallery[currentDevelopmentPhoto].src}
+                    src={developmentGallery[currentDevelopmentPhoto].src}
+                    alt={developmentGallery[currentDevelopmentPhoto].alt}
+                  />
+                  <div className="gallery-controls">
+                    <button
+                      className="gallery-arrow previous"
+                      type="button"
+                      onClick={showPreviousDevelopmentPhoto}
+                      aria-label="Show previous development photo"
+                    >
+                      <ArrowIcon />
+                    </button>
+                    <div
+                      className="gallery-dots"
+                      aria-label={`Development photo ${currentDevelopmentPhoto + 1} of ${developmentGallery.length}`}
+                    >
+                      {developmentGallery.map((photo, photoIndex) => (
+                        <button
+                          className={photoIndex === currentDevelopmentPhoto ? "active" : ""}
+                          type="button"
+                          key={photo.src}
+                          onClick={() => setCurrentDevelopmentPhoto(photoIndex)}
+                          aria-label={`Show development photo ${photoIndex + 1}`}
+                          aria-current={photoIndex === currentDevelopmentPhoto ? "true" : undefined}
+                        />
+                      ))}
+                    </div>
+                    <button
+                      className="gallery-arrow"
+                      type="button"
+                      onClick={showNextDevelopmentPhoto}
+                      aria-label="Show next development photo"
                     >
                       <ArrowIcon />
                     </button>
@@ -407,7 +983,7 @@ export default function App() {
           </div>
           <div>
             <span>Email</span>
-            <a href="https://mutumadigital.co.ke" target="_blank" rel="noreferrer">info@mutumadigital.co.ke</a>
+            <a href="mailto:info@mutumadigital.co.ke">info@mutumadigital.co.ke</a>
           </div>
           <div>
             <span>Visit us</span>
